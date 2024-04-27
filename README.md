@@ -5,7 +5,7 @@
 Author: Anthony FU
 
 
-In the notebook in the repository, we focus on the following:
+In the notebook in this repository, we focus on the following:
 
     - How to define the survey
     - How to define the forward simulation
